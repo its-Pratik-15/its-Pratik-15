@@ -60,15 +60,6 @@ skills = {
 
 ---
 
-### GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=its-Pratik-15&show_icons=true&theme=dark" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=its-Pratik-15&layout=compact&theme=dark" height="150"/>
-</p>
-
----
-
 ### Achievements
 
 [![Holopin badges](https://holopin.me/itspratik15)](https://holopin.io/@itspratik15)
